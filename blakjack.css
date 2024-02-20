@@ -1,0 +1,29 @@
+body{ background-image: url(img/b12.jpg); background-size: cover; background-repeat: no-repeat;  background-attachment: scroll; text-align: center; font-size: 40px; color: aliceblue}
+
+
+
+
+
+h1{
+    color:goldenrod;
+    font-weight: bold;
+}
+
+#massage-el{
+font-style: italic;
+}
+.btn{
+    background-color: goldenrod;
+    width: 150px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #016f32;
+    font-weight: bold;
+    border-radius: 5px;
+
+
+}
+
+
+
